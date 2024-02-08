@@ -1,0 +1,1 @@
+This is a proof of concept for a video game mechanic idea I had back in college called Automatron. Basically you input a string and it converts the string into ASCII then to Binary String. I somehow forgot if it's DFA or NFA since it's been a long time since I coded this.
